@@ -8,7 +8,8 @@ function main(argv) {
    * This is a sample code to use arguments and outputs.
    * You can edit and even remove this code as you like.
    */
-  argv.forEach((v, i) => console.log(`argv[${i}]: ${v}`));
+  argv = ['World', 'codecheck', '織田信長'];
+  argv.forEach((v, i) => console.log('Hello',`${v}`,'!'));
 }
 
 module.exports = main;
