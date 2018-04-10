@@ -1,8 +1,10 @@
 ## Q1. 得意なプログラミング言語 Favorite Programming Language
 あなたの得意なプログラミング言語を記載してみてください。
 Write what your favorite programming language is here.
+My favorite programming language is JavaScript.
 
 ## Q2. コードの説明 Code Explanation
 あなたのコードがどのように動作するのか、簡潔に説明してください。
 Write a brief explanation about how your code works here.
-
+I define the argument as array of string containing 'World', 'codecheck', and '織田信長'
+then print it in console.log
